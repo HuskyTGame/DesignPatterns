@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/DesignPatterns/Scripts/\u521B\u5EFA\u578B/1.\u7B80\u5355\u5DE5\u5382/\u7B80\u5355\u5DE5\u5382.unity"
+  isLoaded: 1
+  isActive: 1
