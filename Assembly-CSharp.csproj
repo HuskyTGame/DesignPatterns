@@ -53,7 +53,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DesignPatterns\Scripts\创建型\1.简单工厂\SimpleFactory.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\创建型\1.简单工厂\SimpleFactoryPattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\创建型\2.工厂方法\FactoryMethodPattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\创建型\3.抽象工厂\AbstractFactoryPattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\创建型\4.简单工厂And抽象工厂\FactoryPlus1Pattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\创建型\5.反射And抽象工厂\FactoryPlus2Pattern.cs" />
      <Compile Include="Assets\HTUtility\7-HTLogger\CustomLoggerService\CustomLoggerService.cs" />
      <Compile Include="Assets\HTUtility\7-HTLogger\Example\UnityLoggerExample.cs" />
      <Compile Include="Assets\HTUtility\7-HTLogger\HTLogger.cs" />
