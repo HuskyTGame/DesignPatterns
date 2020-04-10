@@ -58,6 +58,12 @@
      <Compile Include="Assets\DesignPatterns\Scripts\创建型\3.抽象工厂\AbstractFactoryPattern.cs" />
      <Compile Include="Assets\DesignPatterns\Scripts\创建型\4.简单工厂And抽象工厂\FactoryPlus1Pattern.cs" />
      <Compile Include="Assets\DesignPatterns\Scripts\创建型\5.反射And抽象工厂\FactoryPlus2Pattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\创建型\6.单例\Singleton.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\结构型\1.装饰模式\DecoratorPattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\结构型\2.适配器模式\AdapterPattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\结构型\3.外观模式\FacadePattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\结构型\4.桥接模式\BridgePattern.cs" />
+     <Compile Include="Assets\DesignPatterns\Scripts\结构型\5.组合模式\CompositePattern.cs" />
      <Compile Include="Assets\HTUtility\7-HTLogger\CustomLoggerService\CustomLoggerService.cs" />
      <Compile Include="Assets\HTUtility\7-HTLogger\Example\UnityLoggerExample.cs" />
      <Compile Include="Assets\HTUtility\7-HTLogger\HTLogger.cs" />

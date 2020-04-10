@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/DesignPatterns/Scripts/\u521B\u5EFA\u578B/5.\u53CD\u5C04And\u62BD\u8C61\u5DE5\u5382/\u53CD\u5C04And\u62BD\u8C61\u5DE5\u5382.unity"
+- path: "Assets/DesignPatterns/Scripts/\u884C\u4E3A\u578B/1.\u7B56\u7565\u6A21\u5F0F/\u7B56\u7565\u6A21\u5F0F.unity"
   isLoaded: 1
   isActive: 1
